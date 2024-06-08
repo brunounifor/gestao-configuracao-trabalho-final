@@ -3,3 +3,7 @@
 - `PUBLIC_PATH`: Variável de ambiente para build para produção. Exemplo: www.exemplo.com/meu_path. Nesse caso, `PUBLIC_PATH`="meu_path"
 - `USE_TERMS_URL`: Variável de ambiente com a url dos Termos de Uso
 - `DEMO_PROJECT_ID`: Variável de ambiente com o ID do projeto demo
+
+## Últimas Alterações
+- Atualização das variáveis de ambiente
+- Atualização do README.md com descrição das variáveis de ambiente
