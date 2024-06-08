@@ -1,0 +1,5 @@
+- `FRONTEND_BASE_URL`: Variável de ambiente com a url base do frontend
+- `BACKEND_BASE_URL`: Variável de ambiente com a url base do backend
+- `PUBLIC_PATH`: Variável de ambiente para build para produção. Exemplo: www.exemplo.com/meu_path. Nesse caso, `PUBLIC_PATH`="meu_path"
+- `USE_TERMS_URL`: Variável de ambiente com a url dos Termos de Uso
+- `DEMO_PROJECT_ID`: Variável de ambiente com o ID do projeto demo
